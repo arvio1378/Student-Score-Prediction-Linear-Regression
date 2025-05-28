@@ -1,4 +1,4 @@
-# 📚 Prediksi-Nilai-Ujian-Siswa-Menggunakan-Linear-Regression
+# 📚 Prediksi Nilai Ujian Siswa Menggunakan Linear Regression
 
 ## 📋 Deskripsi
 Projek ini adalah projek latihan saya untuk membuat aplikasi python sederhana untuk memprediksi skor dari jumlah jam belajar siswa menggunakan Linear Regression.
