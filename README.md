@@ -66,6 +66,7 @@ Model memberikan hasil yang hampir akurat dengan nilai R² score yang hampir men
 ## 🏗️ Rencana Pengembangan
 - Tambahkan antaramuka di web/streamlit
 - Tambah monitoring/logging untuk pencatatan prediksi
+- Pengujian Model dengan data lain
 
 ## 🧑‍💻 Tentang Saya
 Saya sedang belajar dan membangun karir di bidang AI/ML. Projek ini adalah latihan saya untuk membangun aplikasi python sederhana. Saya ingin lebih untuk mengembangkan skill saya di bidang ini melalui projek-projek yang ada.
