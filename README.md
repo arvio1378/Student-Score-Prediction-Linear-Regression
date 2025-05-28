@@ -36,4 +36,7 @@ Projek ini juga mudah untuk pemula yang ingin memahami algoritma Machine Learnin
 
 Dataset sederhana dengan 2 kolom, yaitu Hours dan Scores.
 
-## 🖥️ Cara M
+## 🖥️ Cara Menjalankan Program
+1. Clone repositori :
+'''
+git clone https://github.com/arvio1378/Student-Score-Prediction-Linear-Regression-.git
