@@ -64,8 +64,8 @@ python src/main.py
 Model memberikan hasil yang hampir akurat dengan nilai R² score yang hampir mendekat 1 sehingga cocok digunakan untuk demonstrasi Linear Regression dengan antar satu variabel.
 
 ## 🏗️ Rencana Pengembangan
-- Tambahkan antaramuka di web/streamlit
-- Tambah monitoring/logging untuk pencatatan prediksi
+- Menambahkan antaramuka di web/streamlit
+- Menambahkan monitoring/logging untuk pencatatan prediksi
 - Pengujian Model dengan data lain
 
 ## 🧑‍💻 Tentang Saya
