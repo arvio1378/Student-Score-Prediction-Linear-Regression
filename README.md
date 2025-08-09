@@ -20,6 +20,7 @@ Projek ini juga mudah untuk pemula yang ingin memahami algoritma Machine Learnin
 - Scikit-learn
 - Matplotlib
 - Joblib
+- Streamlit
 
 ## 📁 Struktur Folder
 - Student Score Prediction (Linear Regression)/
