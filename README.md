@@ -5,13 +5,13 @@ Projek ini adalah projek latihan saya untuk membuat aplikasi python sederhana un
 Projek ini juga mudah untuk pemula yang ingin memahami algoritma Machine Learning yang salah satunya adalah Linear Regression.
 
 ## 🚀 Fitur
-- Input jumlah jam belajar dengan CLI
+- Input jumlah jam belajar untuk prediksi nilai siswa
 - Model Linear Regression dengan scikit-learn
 - Dataset disimpan dalam format CSV
 - Visualisasi hubungan antara jam belajar dan nilai
 - Evaluasi model dengan R² Score, MAE, dan MSE
 - Model disimpan ke file joblib untuk digunakan ulang
-- Validasi input pada CLI untuk mencegah kesalahan
+- Validasi input untuk mencegah kesalahan
 
 ## 🧠 Tools & Library
 - Python 3.X
@@ -33,6 +33,7 @@ Projek ini juga mudah untuk pemula yang ingin memahami algoritma Machine Learnin
       - main.py
   - requirements.txt
   - README.md
+  - streamlit.py
 
 ## 📊 Dataset
 
@@ -66,7 +67,6 @@ Model memberikan hasil yang hampir akurat dengan nilai R² score yang hampir men
 
 ## 🏗️ Kontribusi
 Dapat melakukan kontribusi kepada siapa saja. Bisa bantu untuk :
-- Menambahkan antaramuka di web/streamlit
 - Menambahkan monitoring/logging untuk pencatatan prediksi
 - Pengujian Model dengan data lain
 
